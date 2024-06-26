@@ -1,11 +1,16 @@
-Resolva o problema de criação de objetos com o Factory
 
-Saiba quando escolher o melhor : Factory ou Builder
+# 🚀 Projeto
 
-Controle seus objetos com o padrão Flyweight
+Projeto desenvolvido com Java em aplicações web.
 
-Salve os estados de um objeto com usando o padrão Memento
+## ℹ️ Sobre o projeto
 
-Crie novas operações com o Visitor
+Este projeto consiste usar Flyweight em uma aplicação web com java para suportem grandes quantidades de objeto.
 
-Resolva heranças complexas com o Bridge
+## 📝 Tecnologias
+
+- [Java](https://dev.java/learn/)
+- [Flyweight](https://refactoring.guru/pt-br/design-patterns/flyweight/java/example#:~:text=O%20O%20Flyweight%20%C3%A9%20um,do%20objeto%20entre%20v%C3%A1rios%20objetos.)
+  
+## Licença
+Copyright © 2021 Raphael Figueira Lopes.
